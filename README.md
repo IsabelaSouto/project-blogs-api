@@ -1,4 +1,6 @@
 # Blogs API
+## O que foi desenvolvido
+Uma API no padrão REST e um banco de dados para a produção de ocnteúdo para um blog.
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
 É essencial que você preencha esse documento por conta própria, ok?
